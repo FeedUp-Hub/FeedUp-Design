@@ -79,4 +79,4 @@
   </tr>
 </table>
 
-Project Link: [https://github.com/FeedUp-Hub/Front/](https://github.com/FeedUp-Hub/)
+Project Link: [https://github.com/FeedUp-Hub/](https://github.com/FeedUp-Hub/)
