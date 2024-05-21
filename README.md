@@ -1,9 +1,9 @@
-# FeedUp Desing
+# FeedUp Design
 
 
 ## Apresentação de Desing do FeedUp
 
-[Veja a documentação completa aqui!](FeedUp-Desing.pdf)
+[Veja a documentação completa aqui!](Feedup-Design.pdf)
 
 
 <!-- Squad -->
