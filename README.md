@@ -1,9 +1,16 @@
 # FeedUp Design
 
 
-## Apresentação de Desing do FeedUp
+## Acesse os links aqui !
 
 [Veja a documentação completa aqui!](Feedup-Design.pdf)
+
+[Acesse o Figma](https://www.figma.com/design/RbgVwzwaBggNhu0Uzbmc8O/FeedUp?node-id=298%3A2686&t=ZjHrpjnNee3WAItO-1)
+
+[Acesse o Video](https://youtu.be/rDKhHAOQG6A)
+
+[![Veja o video completo aqui!](https://img.youtube.com/vi/rDKhHAOQG6A/hqdefault.jpg)](https://youtu.be/rDKhHAOQG6A)
+
 
 
 <!-- Squad -->
